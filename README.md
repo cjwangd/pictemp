@@ -2,6 +2,9 @@
 
 > A Vue.js project
 
+
+vue组件打包成js 文件
+
 ## Build Setup
 
 ``` bash
